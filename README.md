@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) -->
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungki&exclude_repo=dayoungki.github.io&layout=compact&theme=tokyonight" />
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungki&exclude_repo=dayoungki.github.io&layout=compact&theme=tokyonight" />
+
 
 
 
