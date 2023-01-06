@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 
-![dayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayoungki/*&show_icons=true&theme=radical)
+![dayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayoungki&show_icons=true&theme=radical)
 
 
